@@ -1,0 +1,16 @@
+Create Database name: dbsamir
+enter your servername, username and password of mysql
+create table in database of name demo1
+create three coloumn name id title and notes
+install xamppp and start server of apache and sql
+open the folder in address bar like this
+
+
+http://localhost/phpmyadmin/samir/index.php
+
+
+phpmyadmin and samir is folder created in xampp folder located in c drive 
+
+
+enjoy 
+:-)
